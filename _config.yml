@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Chiron - Data analytics cluster at the University of Warwick"
+keywords:    "Chiron, Data analytics, Cluster, University of Warwick, Centre of Scientific Computing, CSC, Warwick, University"
+description: "Chiron is a new data analytics cluster owned by the Centre of Scientific Computing at the University of Warwick"
+source_link: "https://davidjrichardson.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
