@@ -5,10 +5,18 @@ color: black
 fa-icon: book
 ---
 
+### Usage
+
+Instructions on how to get started with the cluster will be available on the Centre of Scientific Computing Wiki pages in due course.
+
+### Benchmarking
+
 Literature associated with the benchmarking process of Chiron can be found below:
 
 * _On Big Data Benchmarking_. Rui Han and Xiaoyi Lu. Available on [arXiv](http://arxiv.org/abs/1402.5194),
 * _Identifying Dwarfs Workloads in Big Data Analytics_. Wanling Gao, Chunjie Luo, Jianfeng Zhan, Hainan Ye, Xiwen He, Lei Wang, Yuqing Zhu and Xinhui Tian. Available on [arXiv](http://arxiv.org/abs/1505.06872v1).
+
+### Optimisation for accelerators
 
 Literature related to the optimisation of data analytics to accelerators can be found below:
 
